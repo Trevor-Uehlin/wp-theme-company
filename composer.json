@@ -1,0 +1,8 @@
+{
+    "name": "trevor-uehlin/company-theme-template",
+    "description": "The theme for a company",
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers":"~1.0"
+    }
+}
